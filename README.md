@@ -1,5 +1,8 @@
 # Portfolio-Alini
 
+✅ Meu portfólio está online!  
+👉 [Clique aqui para acessar](https://alinii24.github.io/portfolio-Alini/)
+
 Bem-vindo(a) ao meu portfólio! 👋  
 Aqui você encontrará um pouco sobre mim, meus projetos e habilidades na área de **Análise e Desenvolvimento de Sistemas**.
 
