@@ -1,6 +1,6 @@
-# Portfolio-Alini
+# Minha Primeira Página web -Alini
 
-✅ Meu portfólio está online!  
+✅  Meu primeiro desenvolvimento web!  
 👉 [Clique aqui para acessar](https://alinii24.github.io/portfolio-Alini/)
 
 Bem-vindo(a) ao meu portfólio! 👋  
